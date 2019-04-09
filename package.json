@@ -38,8 +38,8 @@
     "charm": "^0.2.0",
     "colors": "^0.6.2",
     "commander": "^2.2.0",
-    "lodash": "^4.17.5",
-    "request": "^2.34.0"
+    "lodash": "^4.17.11",
+    "request": "^2.82.0"
   },
   "devDependencies": {
     "express": "^4.15.4",
